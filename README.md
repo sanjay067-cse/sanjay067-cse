@@ -3,7 +3,7 @@ Hi, I'm Sanjay (AI/ML Enthusiast)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sanjay-kumar-mahto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skumarskm2001@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-kumar-mahto/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skumarskm2001@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
